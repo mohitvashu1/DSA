@@ -19,7 +19,7 @@
 
 //Selection Sort
 
-let arr = [4,3,5,2,1]
+// let arr = [4,3,5,2,1]
 
 // function selectionSort(){
 //     for( let i =0;i<arr.length-1 ;i++){
@@ -38,3 +38,43 @@ let arr = [4,3,5,2,1]
 // }
 
 // console.log(selectionSort());
+
+
+
+// let arr = [4,3,5,2,0,1]
+     
+// function SelectionSort(){
+    
+//     let n = arr.length
+//     for(let i=0 ; i<n-1 ; i++){
+//       let minArr = i
+
+//         for(let j=i+1 ; j<n; j++){
+            
+//            if(arr[j]<arr[minArr]){
+//             minArr= j
+//            }
+//            //Swap 
+//         }
+//           [arr[i], arr[minArr]] =  [arr[minArr], arr[i]]
+//     }
+//     console.log(arr);
+
+// }
+
+// SelectionSort()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
